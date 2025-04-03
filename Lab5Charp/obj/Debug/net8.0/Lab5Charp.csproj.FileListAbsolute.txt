@@ -1,0 +1,14 @@
+D:\Projects\University\С#\Laba5\Lab5Charp\bin\Debug\net8.0\Lab5Charp.exe
+D:\Projects\University\С#\Laba5\Lab5Charp\bin\Debug\net8.0\Lab5Charp.deps.json
+D:\Projects\University\С#\Laba5\Lab5Charp\bin\Debug\net8.0\Lab5Charp.runtimeconfig.json
+D:\Projects\University\С#\Laba5\Lab5Charp\bin\Debug\net8.0\Lab5Charp.dll
+D:\Projects\University\С#\Laba5\Lab5Charp\bin\Debug\net8.0\Lab5Charp.pdb
+D:\Projects\University\С#\Laba5\Lab5Charp\obj\Debug\net8.0\Lab5Charp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\University\С#\Laba5\Lab5Charp\obj\Debug\net8.0\Lab5Charp.AssemblyInfoInputs.cache
+D:\Projects\University\С#\Laba5\Lab5Charp\obj\Debug\net8.0\Lab5Charp.AssemblyInfo.cs
+D:\Projects\University\С#\Laba5\Lab5Charp\obj\Debug\net8.0\Lab5Charp.csproj.CoreCompileInputs.cache
+D:\Projects\University\С#\Laba5\Lab5Charp\obj\Debug\net8.0\Lab5Charp.dll
+D:\Projects\University\С#\Laba5\Lab5Charp\obj\Debug\net8.0\refint\Lab5Charp.dll
+D:\Projects\University\С#\Laba5\Lab5Charp\obj\Debug\net8.0\Lab5Charp.pdb
+D:\Projects\University\С#\Laba5\Lab5Charp\obj\Debug\net8.0\Lab5Charp.genruntimeconfig.cache
+D:\Projects\University\С#\Laba5\Lab5Charp\obj\Debug\net8.0\ref\Lab5Charp.dll
